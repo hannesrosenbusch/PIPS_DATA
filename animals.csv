@@ -1,0 +1,82 @@
+Animal,Size,Aggression,Lifespan,Cuddleability,Habitat Size,Price,Monthly Costs,Deadly,Prettiness,Intelligence
+African Elephant,Very Large,Low,60-70 years,1,Large,"40,000-80,000","1,500-3,000",T,4,3
+Bald Eagle,Medium,Medium,20-30 years,1,Medium,Illegal,200-500,T,4,4
+Bengal Tiger,Large,High,10-15 years,1,Large,"10,000-20,000","1,000-3,000",T,5,4
+Blue Whale,Very Large,Low,70-90 years,1,Very Large,Illegal,,T,4,3
+Boa Constrictor,Large,Medium,20-30 years,1,Medium,100-500,50-100,T,3,2
+Bottlenose Dolphin,Large,Low,40-50 years,2,Large,Illegal,,F,5,5
+California Condor,Large,Low,60-70 years,1,Large,Illegal,,F,3,3
+Capybara,Medium,Low,8-10 years,4,Medium,"1,000-3,000",100-200,F,3,3
+Cheetah,Large,High,10-12 years,1,Large,"10,000-20,000","1,000-3,000",T,5,4
+Chimpanzee,Medium,Medium,40-50 years,2,Medium,"50,000-60,000","500-1,000",T,3,5
+Coral Snake,Small,High,10-15 years,1,Small,100-300,10-20,T,3,2
+Emperor Penguin,Medium,Low,15-20 years,2,Medium,Illegal,,F,4,3
+Flamingo,Medium,Low,20-30 years,2,Medium,Illegal,,F,5,2
+Giant Panda,Large,Low,20-30 years,3,Large,Illegal,,F,5,3
+Giraffe,Very Large,Low,25-30 years,1,Large,"25,000-40,000","500-1,000",F,4,3
+Golden Eagle,Medium,Medium,30-35 years,1,Medium,Illegal,200-500,T,4,4
+Great White Shark,Very Large,High,30-70 years,1,Very Large,Illegal,,T,3,3
+Green Anaconda,Large,Medium,10-12 years,1,Medium,200-500,50-100,T,3,2
+Grey Wolf,Medium,High,6-8 years,2,Large,"500-5,000",200-500,T,4,4
+Grizzly Bear,Large,High,20-25 years,1,Large,Illegal,,T,3,3
+Harpy Eagle,Medium,Medium,25-35 years,1,Medium,Illegal,,T,5,4
+Hippopotamus,Very Large,High,40-50 years,1,Large,"100,000+","500-1,000",T,2,3
+Honey Badger,Small,High,20-25 years,1,Medium,"1,000-2,000",100-200,T,2,4
+Hummingbird,Very Small,Low,3-5 years,1,Small,Illegal,,F,5,2
+Indian Rhinoceros,Very Large,Medium,35-45 years,1,Large,"100,000+","1,000-2,000",T,3,3
+Kangaroo,Large,Medium,6-8 years,2,Medium,"2,000-5,000",200-300,F,4,3
+King Cobra,Large,High,20-25 years,1,Medium,"300-1,000",50-100,T,3,3
+Komodo Dragon,Very Large,High,30-50 years,1,Large,Illegal,,T,3,2
+Leopard,Large,High,12-17 years,1,Large,"5,000-15,000","500-1,000",T,5,4
+Liger,Very Large,Medium,10-20 years,2,Large,"20,000-30,000","1,000-2,000",T,4,3
+Lion,Large,High,10-14 years,1,Large,"5,000-15,000","1,000-2,000",T,5,4
+Malayan Tapir,Large,Low,25-30 years,2,Large,Illegal,,F,4,3
+Manatee,Large,Low,50-60 years,2,Large,Illegal,,F,3,3
+Monarch Butterfly,Very Small,Low,6-8 months,1,Small,Illegal,,F,5,1
+Mountain Gorilla,Large,Medium,35-40 years,2,Large,Illegal,,T,3,5
+Narwhal,Large,Low,40-50 years,1,Large,Illegal,,F,4,3
+Okapi,Medium,Low,20-30 years,2,Medium,Illegal,,F,4,3
+Orangutan,Large,Medium,30-40 years,2,Medium,Illegal,,F,4,5
+Ostrich,Large,Low,40-45 years,2,Large,"2,000-5,000",100-200,F,3,2
+Polar Bear,Large,High,25-30 years,1,Large,Illegal,,T,4,3
+Red Panda,Medium,Low,8-10 years,3,Medium,Illegal,,F,5,3
+Scarlet Macaw,Medium,Low,40-50 years,2,Medium,"1,000-5,000",50-100,F,5,4
+Sea Otter,Medium,Low,10-15 years,4,Medium,Illegal,,F,5,4
+Siberian Husky,Medium,Low,12-15 years,5,Medium,"500-2,000",100-200,F,5,4
+Snow Leopard,Large,High,15-18 years,1,Large,Illegal,,T,5,4
+Tasmanian Devil,Small,Medium,5-8 years,2,Medium,Illegal,,T,2,3
+Toco Toucan,Small,Low,18-20 years,2,Medium,"5,000-10,000",200-400,F,5,3
+Vampire Bat,Small,Medium,9-12 years,1,Small,Illegal,,T,2,3
+Wombat,Medium,Low,15-20 years,3,Medium,"1,000-3,000",50-100,F,3,3
+Yellowfin Tuna,Large,Low,5-9 years,1,Very Large,Illegal,,F,2,2
+Domestic Cat,Small,Low,12-18 years,5,Small,"50-1,000",20-100,F,4,3
+Golden Retriever,Medium,Low,10-12 years,5,Small,"500-3,000",50-150,F,5,4
+House Sparrow,Very Small,Low,3-5 years,1,Small,Illegal,,F,2,2
+Pigeon,Small,Low,5-6 years,1,Small,10-50,10-20,F,2,2
+Rabbit,Small,Low,8-12 years,4,Small,20-100,20-40,F,3,2
+Guinea Pig,Very Small,Low,4-8 years,4,Small,10-50,10-20,F,3,2
+Hamster,Very Small,Low,2-3 years,4,Small,5-20,10-20,F,2,2
+Cow,Large,Low,15-20 years,2,Medium,"500-1,500",100-300,F,2,2
+Sheep,Medium,Low,10-12 years,2,Medium,100-500,50-100,F,2,2
+Chicken,Small,Low,5-10 years,2,Small,10-50,10-20,F,2,1
+Siamese Cat,Small,Low,12-15 years,5,Small,"400-2,000",20-50,F,4,4
+Persian Cat,Small,Low,12-17 years,5,Small,"500-5,000",20-50,F,5,3
+Maine Coon,Medium,Low,10-13 years,5,Small,"400-2,000",20-50,F,5,4
+Ragdoll Cat,Medium,Low,12-15 years,5,Small,"800-2,500",20-50,F,5,3
+British Shorthair,Small,Low,12-17 years,5,Small,"500-1,500",20-50,F,4,3
+Bengal Cat,Medium,Low,12-16 years,4,Small,"1,000-4,000",20-50,F,5,4
+Sphynx Cat,Small,Low,8-14 years,5,Small,"1,500-3,000",20-50,F,3,3
+Scottish Fold,Small,Low,11-15 years,5,Small,"1,000-3,000",20-50,F,4,4
+Abyssinian Cat,Small,Low,9-15 years,4,Small,"500-1,500",20-50,F,4,4
+Russian Blue,Small,Low,15-20 years,5,Small,"500-2,000",20-50,F,4,3
+Labrador Retriever,Medium,Low,10-12 years,5,Small,"500-3,000",50-150,F,5,4
+German Shepherd,Large,Medium,9-13 years,4,Medium,"500-3,000",50-150,F,4,5
+French Bulldog,Small,Low,10-12 years,5,Small,"1,500-3,000",50-150,F,4,3
+Beagle,Small,Low,12-15 years,5,Small,"500-2,000",50-150,F,4,3
+Poodle,Small-Medium,Low,12-15 years,5,Small,"1,000-2,000",50-150,F,4,4
+Bulldog,Medium,Low,8-10 years,5,Small,"1,000-2,000",50-150,F,3,3
+Dachshund,Small,Low,12-16 years,5,Small,"500-2,000",50-150,F,4,3
+Boxer,Large,Medium,10-12 years,4,Medium,"700-2,500",50-150,F,4,3
+Chihuahua,Very Small,Low,12-20 years,5,Small,"500-2,000",20-50,F,3,3
+Shih Tzu,Small,Low,10-16 years,5,Small,"500-3,000",20-50,F,4,3
+Great Dane,Very Large,Medium,7-10 years,4,Large,"1,000-3,000",100-200,F,3,3
