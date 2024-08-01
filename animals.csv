@@ -1,3 +1,4 @@
+dataset of possible pets
 Animal,Size,Aggression,Lifespan,Cuddleability,Habitat Size,Price,Monthly Costs,Deadly,Prettiness,Intelligence
 African Elephant,Very Large,Low,60-70 years,1,Large,"40,000-80,000","1,500-3,000",T,4,3
 Bald Eagle,Medium,Medium,20-30 years,1,Medium,Illegal,200-500,T,4,4
